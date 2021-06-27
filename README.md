@@ -24,7 +24,7 @@ I am a man who is a curious and passionate about technology and social-positive 
 <h4><b> 🚀 How to Contact Me 🛎 </b></h4>
 
 <ul>
-  <li> 🛰 LinkedIn: Güray Kaleli</li>
+  <li> 🛰 LinkedIn: https://www.linkedin.com/in/güraykaleli/</li>
   <li> 📮 Email: kaleligiray@gmail.com</li>
 </ul>
 
