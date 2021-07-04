@@ -16,7 +16,7 @@ I am a man who is a curious and passionate about technology and social-positive 
 
 <ul>
   <li>☕️ Java | 🐍 Python </li>
-  <li>🗃 SQL | MySql</li>
+  <li>📦 SQL | MySql</li>
   <li>🌍 HTML | CSS</li>
 </ul>
 🌱🎓 I’m currently learning C, C++, JavaScript<br>
