@@ -25,6 +25,7 @@ I am a man who is a curious and passionate about technology and social-positive 
 
 <ul>
   <li> 🛰 LinkedIn: https://www.linkedin.com/in/güraykaleli/</li>
+  <li> 👨‍💻 HackerRank: https://www.hackerrank.com/kaleligiray</li>
   <li> 📮 Email: kaleligiray@gmail.com</li>
 </ul>
 
