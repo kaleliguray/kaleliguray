@@ -24,6 +24,36 @@ I am a man who is a curious and passionate about technology and social-positive 
     <li>📦 SQL | MySql</li>
     <li>🌍 HTML | CSS</li>
   </or>
+  <or>
+    <b>Integrated Development Environment (IDE)</b>
+    <li>☕️ IntelliJ Idea | Eclipse | Visual Studio Code </li>
+    <li>📱Android Studio </li>
+    <li>🐍 Anaconda | PyCharm | 📈 R Studio </li>
+    <li>📜 SublimeText </li>
+  </or>
+  <or>
+    <b>Operating Systems</b>
+    <li>🗽 Linux </li>
+    <li>👨‍💻 MacOS </li>
+    <li>📊 Microsoft </li>
+  </or>
+  <or>
+    <b>Additional Development Tools</b>
+    <li> Git & GitHub </li>
+    <li> GrayLog & Postman </li>
+    <li> Virtual Box & VMware Fusion </li>
+    <li> Lucidchart </li>
+  </or>
+  <or>
+    <b> Project Management Programme</b>
+    <li> Jira | Asena | Confluence </li>
+    <li> Trello | Favro | Notion </li>
+  </or>
+  <or>
+    <b>🎨 Design </b>
+    <li> Canva </li>
+    <li> Figma </li>
+  </or>
 </ul>
 🌱🎓 I’m currently learning C, C++, JavaScript<br>
 <hr>
