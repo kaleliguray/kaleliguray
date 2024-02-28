@@ -19,7 +19,7 @@ I am a man who is a curious and passionate about technology and social-positive 
     <b>Programming Language</b>
     <li>☕️ Java </li>
     <li>🐍 Python </li>
-    <li>µ R </li>
+    <li>📈 R(µ) </li>
     <li>📱Dart | Flutter </li>
     <li>📦 SQL | MySql</li>
     <li>🌍 HTML | CSS</li>
