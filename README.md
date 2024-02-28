@@ -7,17 +7,23 @@ I am a man who is a curious and passionate about technology and social-positive 
 <h2><b>About ME!</b></h2>
 🇹🇷 I'm from Turkey<br>
 🏊‍♀️🏀 🎸 do sport and play musical instrument<br>
-👨‍💻💼 I am earnest person and love to teach and share knowledge.<br>
-👀🦾 I’m interested in embedded system, data science, machine learning<br>
+👨‍💻💼 I am earnest person and love to teach & economy and share knowledge.<br>
+👀🦾 I’m interested in Information Technology(IT), Software, Economy, Management, Artifical Intelegent (AI), Data Science, Machine Learning<br>
 
 </li>
 <hr>
 <h3><b>🧮 My Technological Skills 📲 </b></h3>
 
 <ul>
-  <li>☕️ Java | 🐍 Python </li>
-  <li>📦 SQL | MySql</li>
-  <li>🌍 HTML | CSS</li>
+  <or>
+    <b>Programming Language</b>
+    <li>☕️ Java </li>
+    <li>🐍 Python </li>
+    <li>µ R </li>
+    <li>📱Dart | Flutter </li>
+    <li>📦 SQL | MySql</li>
+    <li>🌍 HTML | CSS</li>
+  </or>
 </ul>
 🌱🎓 I’m currently learning C, C++, JavaScript<br>
 <hr>
