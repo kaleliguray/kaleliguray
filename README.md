@@ -26,10 +26,9 @@ I am a man who is a curious and passionate about technology and social-positive 
   </or><br>
   <or>
     <b>Integrated Development Environment (IDE)</b>
-    <li>☕️ IntelliJ Idea | Eclipse | Visual Studio Code </li>
+    <li>☕️ IntelliJ Idea | Eclipse | Visual Studio Code | Cursor </li>
     <li>📱Android Studio </li>
     <li>🐍 Anaconda | PyCharm | 📈 R Studio </li>
-    <li>📜 SublimeText </li>
   </or><br>
   <or>
     <b>Operating Systems</b>
@@ -55,7 +54,6 @@ I am a man who is a curious and passionate about technology and social-positive 
     <li> Figma </li>
   </or><br>
 </ul>
-🌱🎓 I’m currently learning C, C++, JavaScript<br>
 <hr>
 <h4><b> 🚀 How to Contact Me 🛎 </b></h4>
 
