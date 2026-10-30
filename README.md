@@ -3,7 +3,6 @@
 <hr>
 I am a man who is a curious and passionate about technology and social-positive science.At the same time, I love to learn new things. I have graduated at university from economy department.Also, I am currently studying Management Information System and Web Design Coding at the university.
 
-
 <h2><b>About ME!</b></h2>
 🇹🇷 I'm from Turkey<br>
 🏊‍♀️🏀 🎸 do sport and play musical instrument<br>
