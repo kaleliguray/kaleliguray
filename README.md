@@ -62,7 +62,6 @@ I am a man who is a curious and passionate about technology and social-positive 
   <li> 📮 Email: kaleligiray@gmail.com</li>
 </ul>
 
-
 <!---
 kaleliguray/kaleliguray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
