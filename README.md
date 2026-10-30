@@ -1,6 +1,6 @@
 
 <h1><b>☘️ Hi!👋,I am Guray, Welcome to my Github!😊 👨‍💻 </b></h1>
-<hr>
+
 I am a man who is a curious and passionate about technology and social-positive science.At the same time, I love to learn new things. I have graduated at university from economy department.Also, I am currently studying Management Information System and Web Design Coding at the university.
 
 <h2><b>About ME!</b></h2>
